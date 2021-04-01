@@ -1,2 +1,5 @@
+^renv$
+^renv\.lock$
 ^musicvisualR\.Rproj$
 ^\.Rproj\.user$
+^README\.Rmd$
