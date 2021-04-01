@@ -1,0 +1,5 @@
+library(devtools)
+packageVersion("devtools")
+library(tidyverse)
+library(fs)
+use_git()
