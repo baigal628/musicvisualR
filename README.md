@@ -6,7 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of musicvisualR is to …
+MusicvisualR stands for MUlti-sample SIngle-Cell data VISUALization R package. scRNA-seq and scATAC-seq data have gained increasing popularity as their power to characterize cell-type compositions from bulk tissue. This R package aims to facilitate the visualization of the transcriptomic and epigenetic landscape among multi-state samples. Basic R scripts include the plotting of scatter plot, violin plot, complex heatmap, etc.
 
 ## Installation
 
